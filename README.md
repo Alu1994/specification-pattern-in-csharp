@@ -88,4 +88,4 @@ class Program
 
 
 ## Helper links
-	- [Expressions in C#](https://www.it-swarm.dev/pt/c%23/combinando-duas-expressoes-expression-func-t-bool/958205640/)
+   [Expressions in C#](https://www.it-swarm.dev/pt/c%23/combinando-duas-expressoes-expression-func-t-bool/958205640/)
