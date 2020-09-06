@@ -85,3 +85,7 @@ class Program
 
 ### Evans and Fowler's Quote
 <img src="https://github.com/matsennin/specification-pattern-in-csharp/blob/master/images/EricEvans%26MartinFowlerQuote.png" />
+
+
+## Helper links
+	- [Expressions in C#](https://www.it-swarm.dev/pt/c%23/combinando-duas-expressoes-expression-func-t-bool/958205640/)
