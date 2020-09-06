@@ -84,4 +84,4 @@ class Program
     - If the system is too simple, there is no need to implement such complex code as well.
 
 ### Evans and Fowler's Quote
-<img src="D:\Projetos\GitHub\Matheus\specification-pattern-in-csharp\images\EricEvans&MartinFowlerQuote.png" />
+<img src="https://github.com/matsennin/specification-pattern-in-csharp/blob/master/images/EricEvans%26MartinFowlerQuote.png" />
